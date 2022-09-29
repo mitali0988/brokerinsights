@@ -1,14 +1,12 @@
 # brokerinsights
 
-## Project setup
-
 ## Backend setup
 unzip the BiAPI folder and put in htdocs
 
 ## Database setup
 dump the code from .sql file
 
-##Frontend Setup
+## Frontend Setup
 ```
 npm install
 
